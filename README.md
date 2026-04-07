@@ -12,6 +12,15 @@
 第三，集成了互动元素，包括点击、拖拽、问答等，提升阅读体验。
 
 
+
+<img width="663" height="740" alt="2981dd9886c343f702da260b2975318c" src="https://github.com/user-attachments/assets/9d55bcd6-9e66-4d8e-92ca-96bb672b4310" />
+
+
+
+Demo演示视频：
+【AI Interactive E-Book Generator 智能童书自动生成的工作流演示-哔哩哔哩】 https://b23.tv/QgKYHo8
+
+
 # 项目结构说明
 
 # 本地运行
